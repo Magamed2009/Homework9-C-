@@ -1,0 +1,15 @@
+C:\Users\MAGA\Desktop\C#\Homework\homework9\Infrastructure\bin\Debug\net8.0\Infrastructure.deps.json
+C:\Users\MAGA\Desktop\C#\Homework\homework9\Infrastructure\bin\Debug\net8.0\Infrastructure.dll
+C:\Users\MAGA\Desktop\C#\Homework\homework9\Infrastructure\bin\Debug\net8.0\Infrastructure.pdb
+C:\Users\MAGA\Desktop\C#\Homework\homework9\Infrastructure\bin\Debug\net8.0\Domain.dll
+C:\Users\MAGA\Desktop\C#\Homework\homework9\Infrastructure\bin\Debug\net8.0\Domain.pdb
+C:\Users\MAGA\Desktop\C#\Homework\homework9\Infrastructure\obj\Debug\net8.0\Infrastructure.csproj.AssemblyReference.cache
+C:\Users\MAGA\Desktop\C#\Homework\homework9\Infrastructure\obj\Debug\net8.0\Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MAGA\Desktop\C#\Homework\homework9\Infrastructure\obj\Debug\net8.0\Infrastructure.AssemblyInfoInputs.cache
+C:\Users\MAGA\Desktop\C#\Homework\homework9\Infrastructure\obj\Debug\net8.0\Infrastructure.AssemblyInfo.cs
+C:\Users\MAGA\Desktop\C#\Homework\homework9\Infrastructure\obj\Debug\net8.0\Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\MAGA\Desktop\C#\Homework\homework9\Infrastructure\obj\Debug\net8.0\Infrastructure.csproj.CopyComplete
+C:\Users\MAGA\Desktop\C#\Homework\homework9\Infrastructure\obj\Debug\net8.0\Infrastructure.dll
+C:\Users\MAGA\Desktop\C#\Homework\homework9\Infrastructure\obj\Debug\net8.0\refint\Infrastructure.dll
+C:\Users\MAGA\Desktop\C#\Homework\homework9\Infrastructure\obj\Debug\net8.0\Infrastructure.pdb
+C:\Users\MAGA\Desktop\C#\Homework\homework9\Infrastructure\obj\Debug\net8.0\ref\Infrastructure.dll
